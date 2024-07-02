@@ -1,0 +1,602 @@
+,age,Gender_Male,Gender_Female,Gender_None,Purchase_Categories_Beauty_and_Personal_Care,Purchase_Categories_Clothing_and_Fashion,Purchase_Categories_Groceries_and_Gourmet_Food,Purchase_Categories_Home_and_Kitchen,Purchase_Frequency,Browsing_Frequency,Personalized_Recommendation_Frequency_Purchase,Personalized_Recommendation_Frequency,Recommendation_Helpfulness,Shopping_Satisfaction,Improvement_Areas
+0,23,0,1,0,1,0,0,0,3,3,3,2,3,1,Reducing packaging waste
+1,23,0,1,0,0,1,0,0,2,2,3,2,2,2,Reducing packaging waste
+2,24,0,0,1,0,1,1,0,3,2,1,4,1,3,Product quality and accuracy
+3,24,0,1,0,1,1,0,0,2,2,2,3,2,4,Product quality and accuracy
+4,22,0,1,0,1,1,0,0,1,2,3,4,3,2,Product quality and accuracy
+5,21,0,1,0,0,1,0,0,1,1,1,5,1,2,Product quality and accuracy
+6,22,0,1,0,0,1,0,0,1,1,1,3,2,3,Shipping speed and reliability
+7,21,0,1,0,1,1,0,0,3,1,1,3,2,3,Shipping speed and reliability
+8,20,0,1,0,1,1,0,0,1,2,2,2,3,2,Reducing packaging waste
+9,23,0,1,0,1,1,0,0,1,1,1,3,3,4,Product quality and accuracy
+10,22,0,1,0,0,1,0,0,1,2,1,3,2,2,Shipping speed and reliability
+11,25,0,1,0,1,1,0,1,5,3,1,3,3,1,Product quality and accuracy
+12,23,0,1,0,1,1,0,0,1,2,1,2,1,2,Product quality and accuracy
+13,24,0,1,0,0,1,0,1,2,2,1,2,3,2,Product quality and accuracy
+14,21,0,1,0,1,0,0,0,1,3,3,5,2,1,Reducing packaging waste
+15,23,0,1,0,0,0,0,0,1,1,1,3,2,3,Shipping speed and reliability
+16,16,1,0,0,0,1,0,0,3,2,2,3,2,2,Shipping speed and reliability
+17,21,0,1,0,0,1,0,0,1,2,1,2,3,1,Shipping speed and reliability
+18,23,0,1,0,1,0,0,1,3,2,2,2,2,2,Customer service responsiveness
+19,25,0,1,0,1,0,0,0,1,3,1,4,2,2,Product quality and accuracy
+20,64,1,0,0,0,0,1,0,4,2,1,2,3,2,Reducing packaging waste
+21,23,0,1,0,0,1,0,0,2,2,1,3,2,2,Customer service responsiveness
+22,21,1,0,0,0,0,0,0,1,3,1,3,2,3,.
+23,16,0,1,0,0,1,0,0,1,2,1,3,3,2,Shipping speed and reliability
+24,23,0,1,0,1,1,0,0,3,2,1,3,2,1,Customer service responsiveness
+25,24,0,1,0,0,0,1,0,5,3,3,2,1,3,Product quality and accuracy
+26,22,0,1,0,1,1,0,0,1,3,1,3,2,2,Shipping speed and reliability
+27,23,0,1,0,1,0,0,0,1,2,1,3,3,5,Reducing packaging waste
+28,23,0,1,0,1,1,0,0,3,3,2,3,2,2,Shipping speed and reliability
+29,24,0,1,0,0,1,0,0,1,2,3,4,3,4,Reducing packaging waste
+30,25,0,1,0,0,1,1,0,3,3,1,2,2,4,Product quality and accuracy
+31,23,0,1,0,1,1,1,1,1,3,1,4,1,4,Customer service responsiveness
+32,23,0,1,0,0,0,0,0,1,1,1,5,1,3,Product quality and accuracy
+33,23,0,1,0,1,1,1,1,1,4,3,1,3,1,Reducing packaging waste
+34,23,1,0,0,1,1,1,1,5,3,3,3,3,1,Customer service responsiveness
+35,24,0,1,0,0,0,0,0,1,4,2,3,2,1,Product quality and accuracy
+36,24,0,1,0,1,1,0,1,3,4,1,2,3,1,Shipping speed and reliability
+37,23,0,1,0,1,0,0,1,1,1,2,2,2,2,Reducing packaging waste
+38,29,1,0,0,0,1,0,0,2,3,2,2,3,2,Customer service responsiveness
+39,19,0,1,0,0,1,0,0,3,3,3,3,3,5,Shipping speed and reliability
+40,26,0,1,0,0,0,0,0,1,2,3,1,3,2,Product quality and accuracy
+41,32,1,0,0,0,0,0,0,1,1,1,1,1,1,Nothing
+42,30,0,1,0,0,0,0,1,2,2,1,1,1,1,Reducing packaging waste
+43,22,0,1,0,1,0,0,0,1,2,1,5,3,2,Product quality and accuracy
+44,26,0,1,0,1,1,0,0,3,4,3,2,3,2,Shipping speed and reliability
+45,24,0,1,0,1,1,0,0,1,3,1,1,3,1,Customer service responsiveness
+46,23,0,1,0,1,1,0,1,3,2,3,4,3,4,Product quality and accuracy
+47,24,0,1,0,0,1,0,0,1,2,2,3,2,3,Product quality and accuracy
+48,23,0,1,0,0,0,0,0,3,3,1,4,2,3,Product quality and accuracy
+49,24,1,0,0,0,1,0,0,3,2,1,1,3,2,Product quality and accuracy
+50,23,0,1,0,1,0,0,1,2,2,1,5,1,3,Customer service responsiveness
+51,25,1,0,0,0,0,0,0,1,3,2,3,2,3,Product quality and accuracy
+52,24,0,1,0,1,1,0,0,1,2,1,1,3,2,Shipping speed and reliability
+53,21,0,1,0,0,0,0,1,3,2,1,1,2,1,Reducing packaging waste
+54,23,0,1,0,0,1,0,0,1,2,1,3,2,3,Reducing packaging waste
+55,26,0,1,0,1,0,0,1,1,1,1,4,3,2,Shipping speed and reliability
+56,23,0,1,0,0,1,0,0,3,3,3,1,2,2,Product quality and accuracy
+57,23,0,1,0,1,1,0,0,3,2,3,3,1,3,Reducing packaging waste
+58,40,1,0,0,1,0,0,1,3,3,1,4,2,1,Reducing packaging waste
+59,25,0,1,0,1,0,0,0,2,2,2,3,2,3,Customer service responsiveness
+60,24,1,0,0,0,0,0,0,2,3,2,4,2,2,Shipping speed and reliability
+61,23,0,1,0,1,1,0,1,1,2,1,3,2,3,Product quality and accuracy
+62,24,1,0,0,0,0,0,0,1,2,2,2,3,2,Shipping speed and reliability
+63,24,1,0,0,0,0,0,0,1,3,1,3,2,3,Product quality and accuracy
+64,24,0,1,0,1,1,0,0,1,2,2,3,3,3,Customer service responsiveness
+65,26,1,0,0,0,0,0,0,3,3,1,3,3,4,Product quality and accuracy
+66,23,0,1,0,1,0,0,1,3,2,2,2,2,3,Product quality and accuracy
+67,23,0,1,0,1,1,0,1,3,3,1,3,2,1,Product quality and accuracy
+68,24,0,1,0,0,0,0,0,2,3,2,3,3,2,Product quality and accuracy
+69,23,1,0,0,0,0,0,0,1,2,1,3,2,3,better app interface and lower shipping charges
+70,24,0,1,0,1,1,0,0,1,2,3,1,3,2,Product quality and accuracy
+71,36,0,1,0,0,0,0,1,2,4,2,2,2,1,Shipping speed and reliability
+72,26,1,0,0,0,0,0,1,1,1,1,1,3,1,Product quality and accuracy
+73,31,1,0,0,0,0,0,1,2,2,1,4,2,1,Reducing packaging waste
+74,23,1,0,0,0,0,0,0,1,1,1,2,1,2,Reducing packaging waste
+75,23,0,1,0,0,0,0,1,1,2,3,3,3,2,Product quality and accuracy
+76,30,1,0,0,0,0,1,1,4,3,3,4,3,4,Customer service responsiveness
+77,24,0,1,0,0,0,0,0,1,1,1,2,2,2,Product quality and accuracy
+78,47,0,0,1,0,0,0,0,1,1,2,2,1,2,Shipping speed and reliability
+79,54,0,0,1,1,1,1,1,5,4,3,5,3,5,Shipping speed and reliability
+80,58,1,0,0,0,1,0,0,2,3,1,4,1,3,Reducing packaging waste
+81,53,0,1,0,0,0,0,1,1,3,1,2,3,1,Reducing packaging waste
+82,23,0,0,1,1,0,0,0,4,4,1,3,2,3,Reducing packaging waste
+83,25,0,0,1,0,1,1,0,3,3,3,4,2,3,Customer service responsiveness
+84,23,0,1,0,1,0,0,0,1,1,1,2,2,2,Shipping speed and reliability
+85,32,1,0,0,0,1,0,1,1,3,2,4,2,4,Customer service responsiveness
+86,30,0,0,1,1,1,0,0,3,3,3,5,2,3,Product quality and accuracy
+87,28,0,0,1,1,1,1,1,3,2,1,4,1,3,Shipping speed and reliability
+88,20,0,1,0,1,1,0,0,5,4,1,3,1,3,Reducing packaging waste
+89,25,1,0,0,0,0,0,0,3,1,1,2,2,3,Product quality and accuracy
+90,55,0,0,1,0,0,1,0,3,4,3,4,3,3,Customer service responsiveness
+91,24,0,1,0,1,0,0,1,2,3,1,4,2,4,Product quality and accuracy
+92,62,0,1,0,1,0,0,0,1,1,2,5,3,3,Shipping speed and reliability
+93,27,1,0,0,0,0,0,0,1,1,1,5,1,5,Customer service responsiveness
+94,34,0,0,1,1,1,0,0,3,2,2,4,3,2,Product quality and accuracy
+95,40,0,1,0,1,1,0,1,4,3,2,2,1,2,Shipping speed and reliability
+96,22,0,0,1,0,0,0,0,1,2,3,3,1,4,Reducing packaging waste
+97,34,0,0,1,0,1,0,1,3,2,1,1,2,2,Product quality and accuracy
+98,24,0,1,0,1,0,0,1,1,3,1,1,2,1,Product quality and accuracy
+99,44,1,0,0,0,1,0,0,3,2,1,2,3,2,Customer service responsiveness
+100,31,0,1,0,0,0,0,1,2,1,2,5,1,2,Reducing packaging waste
+101,23,0,1,0,0,1,0,0,4,3,2,3,3,3,Product quality and accuracy
+102,23,0,1,0,1,0,0,0,1,2,2,2,3,1,Reducing packaging waste
+103,22,0,1,0,0,1,0,1,1,3,1,5,2,3,Customer service responsiveness
+104,24,0,1,0,1,1,0,1,4,3,2,1,3,1,Customer service responsiveness
+105,23,0,0,1,1,1,0,1,4,4,3,1,3,1,Customer service responsiveness
+106,25,1,0,0,0,0,0,0,1,2,3,3,2,3,Customer service responsiveness
+107,23,1,0,0,0,1,0,0,4,3,2,1,1,2,Customer service responsiveness
+108,24,1,0,0,1,1,1,1,2,3,2,2,3,2,Product quality and accuracy
+109,24,0,1,0,0,0,0,0,3,3,3,2,3,2,Customer service responsiveness
+110,26,0,1,0,0,0,0,0,1,2,1,1,3,1,Shipping speed and reliability
+111,25,0,1,0,0,1,0,0,1,1,2,4,2,3,Shipping speed and reliability
+112,26,1,0,0,0,1,0,0,3,3,1,3,1,3,Reducing packaging waste
+113,29,1,0,0,0,0,0,0,1,1,1,3,2,4,Product quality and accuracy
+114,23,0,1,0,1,1,0,1,2,2,3,2,3,4,Reducing packaging waste
+115,30,1,0,0,0,1,0,1,5,3,3,1,3,2,Customer service responsiveness
+116,23,0,1,0,1,0,0,1,1,4,1,3,2,3,Customer service responsiveness
+117,21,0,1,0,0,1,0,0,1,1,1,4,2,3,Reducing packaging waste
+118,23,0,1,0,1,0,0,1,2,3,1,3,3,2,Product quality and accuracy
+119,21,0,1,0,0,1,0,0,2,3,2,3,2,3,Customer service responsiveness
+120,23,0,1,0,0,1,0,0,1,2,1,2,2,1,Shipping speed and reliability
+121,27,1,0,0,0,0,0,0,2,2,2,3,2,1,Product quality and accuracy
+122,38,0,1,0,1,0,0,1,2,2,1,4,2,2,Product quality and accuracy
+123,23,0,1,0,1,1,0,0,1,1,1,3,1,2,Product quality and accuracy
+124,38,0,1,0,1,1,0,1,1,2,1,4,1,2,Shipping speed and reliability
+125,23,1,0,0,0,0,0,0,3,3,1,2,3,3,Reducing packaging waste
+126,24,1,0,0,0,1,0,0,4,3,1,3,1,2,Customer service responsiveness
+127,25,0,1,0,1,1,1,1,4,3,3,2,3,2,Customer service responsiveness
+128,26,1,0,0,1,1,1,1,1,3,3,1,3,1,Customer service responsiveness
+129,27,1,0,0,1,1,0,1,4,2,1,3,1,2,Product quality and accuracy
+130,29,0,0,1,1,0,0,0,4,3,3,3,1,1,Customer service responsiveness
+131,35,0,0,1,1,1,0,1,3,2,1,4,1,2,Reducing packaging waste
+132,21,0,1,0,1,1,0,0,2,3,3,1,2,1,Product quality and accuracy
+133,36,1,0,0,1,0,0,1,3,2,1,2,3,3,Customer service responsiveness
+134,44,0,1,0,1,0,0,0,3,4,1,2,1,2,Customer service responsiveness
+135,32,0,1,0,1,1,1,1,4,4,3,1,3,1,Customer service responsiveness
+136,30,1,0,0,1,0,1,1,3,2,1,4,1,2,Product quality and accuracy
+137,36,0,0,1,0,0,0,0,1,1,2,5,2,5,Shipping speed and reliability
+138,25,1,0,0,1,1,1,1,1,1,1,1,3,1,Customer service responsiveness
+139,20,0,1,0,1,1,1,1,5,4,3,4,3,1,Product quality and accuracy
+140,35,0,1,0,1,0,0,0,4,2,1,2,2,3,Product quality and accuracy
+141,42,1,0,0,0,0,1,1,1,2,3,1,3,1,Product quality and accuracy
+142,37,0,1,0,1,1,1,1,3,2,1,2,1,1,Reducing packaging waste
+143,28,0,1,0,1,1,0,0,5,4,3,3,2,1,Customer service responsiveness
+144,27,1,0,0,1,0,0,1,4,3,1,3,1,2,Customer service responsiveness
+145,45,0,1,0,1,1,1,1,4,4,1,2,1,2,Product quality and accuracy
+146,35,1,0,0,0,1,1,1,1,1,3,1,3,1,Shipping speed and reliability
+147,50,0,1,0,1,1,0,1,5,3,1,2,1,2,Reducing packaging waste
+148,54,0,1,0,1,0,0,0,3,3,1,2,1,2,Reducing packaging waste
+149,29,0,1,0,1,1,1,1,5,4,3,1,2,1,Product quality and accuracy
+150,63,1,0,0,0,0,1,1,1,1,1,2,2,2,Customer service responsiveness
+151,24,1,0,0,1,1,0,0,3,3,2,2,2,1,Product quality and accuracy
+152,23,0,1,0,1,0,0,0,1,1,1,1,3,1,Shipping speed and reliability
+153,26,0,1,0,1,1,0,0,3,3,3,5,3,1,Product quality and accuracy
+154,29,1,0,0,1,1,0,0,5,4,1,3,3,1,Shipping speed and reliability
+155,46,0,0,1,1,1,0,0,3,2,1,2,3,2,Reducing packaging waste
+156,24,1,0,0,0,0,0,0,1,2,1,3,3,5,Nil
+157,33,0,1,0,1,0,1,0,3,3,1,2,1,2,Reducing packaging waste
+158,33,0,1,0,1,0,0,0,4,3,1,2,3,1,Shipping speed and reliability
+159,31,0,0,1,0,1,0,0,2,2,1,3,1,4,Shipping speed and reliability
+160,40,0,0,1,0,1,0,1,3,4,2,1,3,2,Reducing packaging waste
+161,37,1,0,0,1,1,0,0,4,2,1,2,1,4,Customer service responsiveness
+162,25,0,0,1,1,0,0,0,3,1,1,2,1,2,Product quality and accuracy
+163,60,0,1,0,1,1,0,0,4,4,3,2,1,3,Customer service responsiveness
+164,18,0,1,0,1,0,1,0,4,2,1,4,1,4,Reducing packaging waste
+165,50,1,0,0,0,1,0,1,1,3,1,4,1,4,Shipping speed and reliability
+166,24,0,0,1,1,1,0,1,3,2,2,3,1,3,Product quality and accuracy
+167,19,0,1,0,1,1,0,0,3,2,1,2,1,2,Customer service responsiveness
+168,18,0,1,0,1,1,0,0,2,1,1,1,1,1,Product quality and accuracy
+169,17,1,0,0,1,1,1,0,3,3,1,2,1,2,Customer service responsiveness
+170,27,0,1,0,1,0,0,0,2,3,1,3,2,2,Shipping speed and reliability
+171,23,1,0,0,1,0,0,1,1,1,1,5,1,2,Product quality and accuracy
+172,35,0,1,0,1,0,0,0,3,2,1,2,1,2,Reducing packaging waste
+173,57,0,1,0,1,1,1,1,3,3,1,3,2,1,Reducing packaging waste
+174,54,1,0,0,0,1,1,1,3,3,1,3,1,2,Product quality and accuracy
+175,26,0,0,1,1,0,0,0,2,2,1,2,1,2,Shipping speed and reliability
+176,46,1,0,0,1,0,0,0,4,1,2,2,1,2,Customer service responsiveness
+177,26,0,1,0,1,1,1,1,5,3,2,3,2,2,Add more familiar brands to the list
+178,24,1,0,0,0,0,0,0,2,2,1,1,3,2,Shipping speed and reliability
+179,26,0,1,0,1,1,1,0,2,3,1,2,3,1,Shipping speed and reliability
+180,27,1,0,0,0,1,0,0,2,2,1,3,3,2,Shipping speed and reliability
+181,22,0,1,0,1,0,0,0,3,4,3,1,2,3,Customer service responsiveness
+182,24,1,0,0,1,0,0,0,3,3,3,3,3,3,Customer service responsiveness
+183,25,1,0,0,1,0,0,0,5,3,1,2,1,3,Reducing packaging waste
+184,22,0,0,1,1,0,0,0,2,3,3,3,2,3,Customer service responsiveness
+185,27,1,0,0,0,0,0,0,2,2,1,3,3,1,Shipping speed and reliability
+186,23,0,1,0,0,1,0,1,1,2,1,2,3,2,Shipping speed and reliability
+187,24,1,0,0,0,1,0,0,1,2,1,3,3,3,Product quality and accuracy
+188,24,0,1,0,1,0,0,0,1,1,1,3,1,3,Product quality and accuracy
+189,23,0,1,0,0,1,0,0,3,2,1,4,3,4,Product quality and accuracy
+190,23,1,0,0,0,1,0,0,2,2,1,3,1,3,UI
+191,25,0,1,0,0,0,1,0,4,4,3,3,3,3,Reducing packaging waste
+192,21,1,0,0,0,0,1,0,4,3,1,3,1,3,Customer service responsiveness
+193,36,0,1,0,0,0,1,0,3,2,1,3,2,4,Customer service responsiveness
+194,23,0,1,0,1,0,0,0,5,3,3,3,2,3,Customer service responsiveness
+195,23,0,1,0,0,1,0,0,3,2,2,3,1,3,Customer service responsiveness
+196,23,0,0,1,0,1,0,0,4,2,3,3,1,3,Customer service responsiveness
+197,21,0,1,0,1,0,0,0,4,3,3,3,1,3,Customer service responsiveness
+198,23,0,0,1,0,1,0,0,4,2,3,3,2,3,Product quality and accuracy
+199,26,0,0,1,1,0,0,0,3,3,3,3,1,3,Product quality and accuracy
+200,30,0,1,0,1,0,0,0,3,3,3,3,2,3,Customer service responsiveness
+201,37,0,1,0,0,1,0,0,2,2,2,4,2,3,Product quality and accuracy
+202,26,0,1,0,1,0,0,0,2,3,3,2,3,3,Shipping speed and reliability
+203,46,0,1,0,0,0,0,0,2,1,2,1,3,1,Shipping speed and reliability
+204,36,0,1,0,0,0,0,0,1,1,1,4,3,4,Product quality and accuracy
+205,40,0,1,0,0,0,0,1,1,1,2,3,3,2,Customer service responsiveness
+206,41,1,0,0,0,1,0,0,1,2,2,5,3,3,Shipping speed and reliability
+207,34,1,0,0,0,0,0,0,1,1,1,4,1,2,Scrolling option would be much better than going to next page
+208,29,0,1,0,1,1,0,1,2,4,1,5,1,3,Product quality and accuracy
+209,35,1,0,0,0,1,0,0,2,3,2,2,3,3,Product quality and accuracy
+210,32,1,0,0,0,1,0,0,1,1,1,3,3,3,Reducing packaging waste
+211,41,1,0,0,1,1,0,0,3,3,2,1,3,2,Product quality and accuracy
+212,35,0,1,0,0,0,0,1,3,4,3,2,3,2,Product quality and accuracy
+213,36,0,1,0,0,0,1,1,3,3,3,3,3,1,Reducing packaging waste
+214,46,0,1,0,0,0,0,0,4,3,1,5,2,4,Customer service responsiveness
+215,39,0,1,0,0,0,0,1,3,3,2,1,2,3,Customer service responsiveness
+216,48,1,0,0,1,0,0,0,3,3,3,2,3,1,Customer service responsiveness
+217,25,1,0,0,0,0,0,0,3,3,1,3,3,4,Customer service responsiveness
+218,38,1,0,0,1,1,0,1,2,3,3,3,2,3,Quality of product is very poor according to the big offers
+219,26,1,0,0,1,1,0,1,2,3,3,1,3,3,Product quality and accuracy
+220,40,0,1,0,1,0,0,0,1,3,1,3,1,3,Product quality and accuracy
+221,49,0,1,0,0,0,1,1,3,4,2,3,3,2,I have no problem with Amazon yet. But others tell me about the refund issues 
+222,30,1,0,0,0,1,0,0,1,3,3,3,3,1,Product quality and accuracy
+223,24,0,1,0,0,1,0,0,1,1,1,2,2,2,Customer service responsiveness
+224,23,0,1,0,1,0,0,1,2,3,3,2,3,1,Shipping speed and reliability
+225,27,1,0,0,0,1,0,0,2,2,2,3,3,4,Product quality and accuracy
+226,28,1,0,0,0,0,0,0,1,1,1,5,3,2,Product quality and accuracy
+227,23,1,0,0,0,0,0,0,1,3,1,2,2,2,Product quality and accuracy
+228,46,0,1,0,0,0,0,1,3,3,3,1,3,2,Product quality and accuracy
+229,27,1,0,0,0,0,0,0,1,1,2,3,2,3,Customer service responsiveness
+230,20,0,1,0,0,0,0,1,2,1,1,3,2,3,Product quality and accuracy
+231,23,0,1,0,1,1,0,0,1,2,1,4,3,4,Shipping speed and reliability
+232,29,0,1,0,1,1,1,1,4,4,3,2,2,2,Customer service responsiveness
+233,29,0,1,0,0,1,0,0,1,2,3,1,3,3,Product quality and accuracy
+234,57,0,1,0,0,0,0,1,3,3,1,4,3,3,Customer service responsiveness
+235,25,0,1,0,1,0,0,0,1,3,1,4,3,1,Customer service responsiveness
+236,23,0,1,0,1,0,0,0,3,2,1,1,2,2,Product quality and accuracy
+237,15,1,0,0,0,1,0,0,2,3,1,3,2,2,Product quality and accuracy
+238,39,1,0,0,0,1,0,0,1,2,3,3,2,2,Product quality and accuracy
+239,23,0,1,0,1,1,0,0,2,2,1,3,2,3,Reducing packaging waste
+240,25,0,1,0,1,0,0,0,1,3,1,3,3,3,Shipping speed and reliability
+241,37,0,1,0,1,1,1,1,5,3,2,2,2,2,Reducing packaging waste
+242,23,0,1,0,1,0,0,1,3,2,1,3,1,2,Reducing packaging waste
+243,23,0,1,0,0,1,0,1,3,3,1,3,1,3,Reducing packaging waste
+244,23,0,1,0,0,1,0,1,2,2,2,3,1,3,Reducing packaging waste
+245,23,0,1,0,1,0,0,0,4,2,1,3,1,2,Customer service responsiveness
+246,21,0,1,0,0,1,0,1,2,2,1,2,1,4,Customer service responsiveness
+247,21,0,1,0,0,1,0,0,4,3,1,4,3,1,Customer service responsiveness
+248,34,0,1,0,1,0,0,0,4,3,1,2,1,2,Customer service responsiveness
+249,23,0,1,0,0,1,0,1,3,3,1,3,1,1,Customer service responsiveness
+250,23,0,1,0,1,0,0,0,4,2,1,3,1,2,Reducing packaging waste
+251,23,0,0,1,0,1,0,0,3,2,1,3,1,1,Customer service responsiveness
+252,27,0,1,0,1,0,0,0,4,2,1,3,1,1,Customer service responsiveness
+253,23,0,1,0,0,0,0,0,1,1,1,3,2,2,Product quality and accuracy
+254,47,0,1,0,0,1,0,0,1,1,1,5,2,2,Product quality and accuracy
+255,54,1,0,0,0,0,0,0,1,1,1,1,3,3,Product quality and accuracy
+256,46,0,0,1,1,0,0,1,4,2,1,3,1,3,Reducing packaging waste
+257,38,0,1,0,0,0,0,0,2,3,1,3,1,3,Customer service responsiveness
+258,45,0,1,0,0,0,1,1,3,3,2,1,1,2,Reducing packaging waste
+259,34,1,0,0,0,1,0,0,4,3,3,4,1,2,Reducing packaging waste
+260,44,0,1,0,0,1,0,0,4,2,2,5,2,3,Customer service responsiveness
+261,23,0,1,0,0,1,0,1,3,2,2,2,1,3,Customer service responsiveness
+262,32,0,1,0,1,0,0,0,4,3,3,4,1,5,Customer service responsiveness
+263,23,0,1,0,1,0,0,0,4,4,3,2,1,3,Product quality and accuracy
+264,23,0,1,0,0,1,0,0,3,3,1,2,1,2,Customer service responsiveness
+265,23,1,0,0,0,1,1,1,4,3,1,1,3,1,Product quality and accuracy
+266,19,0,1,0,0,1,0,0,3,3,1,4,3,2,Customer service responsiveness
+267,23,0,1,0,1,0,0,0,1,2,1,5,1,1,Shipping speed and reliability
+268,23,0,1,0,1,1,0,0,3,3,1,2,3,3,Customer service responsiveness
+269,34,1,0,0,1,0,0,1,4,2,3,3,1,3,Customer service responsiveness
+270,34,0,1,0,0,1,0,0,4,3,1,3,1,4,Reducing packaging waste
+271,34,0,1,0,0,0,0,1,2,3,1,3,1,4,Product quality and accuracy
+272,23,0,0,1,1,0,0,0,3,3,1,2,3,3,Customer service responsiveness
+273,45,0,1,0,0,1,0,0,4,1,2,3,2,3,Customer service responsiveness
+274,23,0,1,0,0,0,1,0,4,3,3,2,1,1,Shipping speed and reliability
+275,34,0,1,0,0,1,0,1,4,2,1,3,2,3,Customer service responsiveness
+276,37,0,1,0,1,0,0,0,4,3,1,3,1,3,Reducing packaging waste
+277,34,0,1,0,0,1,0,0,4,3,1,2,1,2,Customer service responsiveness
+278,23,0,0,1,0,0,1,0,2,3,2,3,2,3,Customer service responsiveness
+279,45,0,1,0,0,0,0,0,4,1,1,3,1,3,Reducing packaging waste
+280,26,1,0,0,0,1,0,0,1,3,3,3,3,3,User interface 
+281,34,0,1,0,1,1,0,0,3,3,1,2,1,4,Customer service responsiveness
+282,21,0,0,1,1,1,0,0,4,3,3,3,1,5,Product quality and accuracy
+283,23,0,0,1,0,1,0,1,3,3,2,4,2,3,Customer service responsiveness
+284,41,1,0,0,1,1,1,1,5,4,1,3,3,4,Irrelevant product suggestions
+285,32,0,1,0,1,1,0,0,3,3,2,3,1,3,Customer service responsiveness
+286,23,0,1,0,1,0,0,0,4,3,2,4,2,3,Shipping speed and reliability
+287,22,0,1,0,1,0,0,0,5,3,3,4,2,4,Product quality and accuracy
+288,48,0,1,0,0,1,0,0,5,1,3,1,2,2,Shipping speed and reliability
+289,32,1,0,0,0,0,1,0,3,3,3,3,2,3,Customer service responsiveness
+290,28,0,0,1,1,0,0,0,3,2,2,3,1,3,Reducing packaging waste
+291,23,0,1,0,1,0,0,0,4,3,3,3,2,3,Reducing packaging waste
+292,23,0,1,0,1,0,0,0,3,3,1,3,2,3,Customer service responsiveness
+293,26,0,1,0,0,1,0,0,5,3,2,4,2,3,Reducing packaging waste
+294,34,0,1,0,1,0,0,0,5,3,2,4,2,3,Reducing packaging waste
+295,23,0,1,0,1,0,0,0,5,3,2,3,2,3,Reducing packaging waste
+296,22,0,1,0,0,1,0,0,4,2,2,3,2,3,Reducing packaging waste
+297,32,0,0,1,0,1,0,0,2,3,2,3,2,4,Reducing packaging waste
+298,47,0,1,0,0,1,0,0,2,4,1,3,2,3,Shipping speed and reliability
+299,22,0,1,0,1,0,0,0,3,3,2,3,2,3,Reducing packaging waste
+300,47,1,0,0,0,1,0,1,3,3,1,3,3,2,Product quality and accuracy
+301,22,0,1,0,1,1,1,1,3,4,1,1,2,1,Customer service responsiveness
+302,45,0,0,1,1,0,1,0,2,1,2,5,2,5,Product quality and accuracy
+303,21,1,0,0,0,0,0,0,1,1,2,4,2,4,Shipping speed and reliability
+304,27,0,0,1,1,1,0,0,3,2,1,2,3,2,Product quality and accuracy
+305,37,1,0,0,0,0,1,1,1,3,2,2,2,1,Customer service responsiveness
+306,33,0,1,0,1,1,1,1,5,2,1,2,1,2,Reducing packaging waste
+307,22,0,0,1,1,0,0,0,4,2,1,2,1,3,Customer service responsiveness
+308,25,1,0,0,0,1,0,1,3,4,1,3,1,3,Product quality and accuracy
+309,28,0,1,0,1,1,1,1,3,4,3,1,3,1,Customer service responsiveness
+310,17,0,0,1,0,1,0,1,3,1,1,5,2,5,Shipping speed and reliability
+311,16,1,0,0,0,1,0,0,2,1,1,4,1,4,Customer service responsiveness
+312,32,1,0,0,1,0,1,0,1,4,3,2,2,1,Customer service responsiveness
+313,27,0,1,0,1,1,1,1,2,2,1,1,1,2,Product quality and accuracy
+314,18,0,1,0,1,1,1,0,3,3,1,1,1,2,Shipping speed and reliability
+315,37,1,0,0,0,0,0,0,1,1,1,4,3,4,Product quality and accuracy
+316,28,1,0,0,0,1,0,0,2,3,3,2,2,3,Product quality and accuracy
+317,48,0,1,0,1,0,0,0,1,1,2,3,3,2,Shipping speed and reliability
+318,50,0,1,0,0,0,0,1,5,4,3,2,3,3,Product quality and accuracy
+319,24,0,1,0,0,1,0,1,3,3,1,3,2,2,User interface of app
+320,40,0,1,0,1,1,0,0,3,3,1,5,2,4,Product quality and accuracy
+321,25,0,1,0,1,1,0,1,5,4,1,1,3,3,Reducing packaging waste
+322,31,1,0,0,1,0,0,1,4,4,1,2,3,1,Product quality and accuracy
+323,18,0,1,0,0,1,0,0,2,2,1,1,3,3,Shipping speed and reliability
+324,26,0,1,0,1,0,0,0,4,2,3,1,3,1,Product quality and accuracy
+325,16,0,1,0,0,1,0,1,1,2,1,1,2,3,Product quality and accuracy
+326,18,1,0,0,1,1,0,0,4,4,2,3,1,2,Reducing packaging waste
+327,40,1,0,0,0,0,0,1,1,3,1,2,1,2,Product quality and accuracy
+328,19,0,1,0,1,1,0,0,3,4,3,1,3,1,Customer service responsiveness
+329,16,0,0,1,1,1,1,1,3,3,2,2,1,1,Shipping speed and reliability
+330,43,1,0,0,0,0,1,1,1,1,1,1,2,2,Customer service responsiveness
+331,25,0,0,1,0,1,0,1,4,2,1,4,1,3,Reducing packaging waste
+332,22,0,1,0,1,1,0,0,2,4,2,1,2,1,Product quality and accuracy
+333,17,0,0,1,0,1,0,0,2,2,2,4,2,4,Customer service responsiveness
+334,34,1,0,0,1,1,1,1,1,4,2,1,3,1,Customer service responsiveness
+335,30,0,0,1,1,1,0,1,3,2,2,2,2,3,Reducing packaging waste
+336,31,0,0,1,0,0,0,1,2,3,2,4,1,2,Reducing packaging waste
+337,31,0,1,0,0,1,0,1,3,3,2,2,1,2,Shipping speed and reliability
+338,34,0,0,1,1,0,0,0,5,4,3,5,3,5,Product quality and accuracy
+339,26,0,1,0,0,1,0,0,2,3,1,1,3,3,Product quality and accuracy
+340,26,1,0,0,1,1,1,1,2,4,3,1,2,1,Customer service responsiveness
+341,24,0,0,1,0,1,0,0,1,1,2,4,2,4,Customer service responsiveness
+342,26,0,1,0,1,1,0,1,2,3,1,4,1,3,Customer service responsiveness
+343,29,1,0,0,1,0,1,1,1,3,2,3,2,1,Reducing packaging waste
+344,37,0,0,1,1,1,0,0,3,4,3,3,1,2,Product quality and accuracy
+345,34,0,0,1,0,1,0,0,3,3,2,3,1,3,Customer service responsiveness
+346,31,0,1,0,1,1,1,1,2,3,3,2,2,1,Customer service responsiveness
+347,27,1,0,0,1,1,0,0,5,2,1,2,3,2,Customer service responsiveness
+348,23,1,0,0,0,1,0,1,2,2,2,2,3,2,Product quality and accuracy
+349,21,0,0,1,1,0,0,1,2,2,2,2,1,2,Customer service responsiveness
+350,53,1,0,0,0,0,1,1,1,3,3,1,2,1,Customer service responsiveness
+351,26,0,0,1,1,1,1,0,2,3,1,3,2,2,Shipping speed and reliability
+352,28,0,0,1,1,1,0,1,3,2,2,2,3,2,Customer service responsiveness
+353,47,0,1,0,1,1,1,1,2,4,3,2,2,2,Customer service responsiveness
+354,37,0,0,1,0,1,0,1,4,4,3,2,1,2,Product quality and accuracy
+355,37,0,0,1,1,0,1,0,4,3,2,3,1,1,Shipping speed and reliability
+356,39,1,0,0,1,1,1,1,1,3,3,5,2,2,Shipping speed and reliability
+357,40,0,0,1,0,1,1,0,3,2,1,2,1,3,Customer service responsiveness
+358,23,0,1,0,1,0,1,0,3,2,2,2,1,1,Shipping speed and reliability
+359,25,0,0,1,0,1,0,1,3,3,1,2,1,2,Product quality and accuracy
+360,34,0,1,0,1,1,0,0,5,4,3,5,2,1,Customer service responsiveness
+361,26,0,1,0,0,1,1,1,3,3,1,2,2,2,Shipping speed and reliability
+362,31,0,0,1,0,1,0,1,4,4,1,4,1,3,Customer service responsiveness
+363,26,0,1,0,0,1,0,1,3,1,2,4,1,2,Product quality and accuracy
+364,34,0,1,0,1,1,1,1,3,2,2,2,2,3,Customer service responsiveness
+365,18,0,1,0,1,1,0,0,3,4,3,3,2,1,Customer service responsiveness
+366,40,1,0,0,1,1,1,0,3,2,2,2,3,2,Customer service responsiveness
+367,42,0,1,0,0,1,0,1,3,3,1,3,2,2,Customer service responsiveness
+368,35,0,0,1,1,1,1,1,2,4,2,1,2,1,Customer service responsiveness
+369,37,1,0,0,0,1,0,1,2,3,1,2,2,2,Customer service responsiveness
+370,46,1,0,0,0,0,0,1,1,1,2,4,2,4,Product quality and accuracy
+371,24,0,0,1,1,1,0,0,3,3,2,5,2,2,I don't have any problem with Amazon
+372,35,0,0,1,1,0,1,0,2,3,1,2,1,2,Product quality and accuracy
+373,46,0,1,0,1,1,1,1,2,3,2,2,1,2,Shipping speed and reliability
+374,32,0,0,1,1,1,1,1,2,4,3,2,2,1,Customer service responsiveness
+375,35,0,1,0,1,1,0,1,3,4,2,2,1,2,Customer service responsiveness
+376,36,0,1,0,1,1,0,1,3,3,3,2,2,1,Reducing packaging waste
+377,15,0,1,0,1,1,0,1,5,4,1,1,3,2,Product quality and accuracy
+378,43,0,0,1,0,0,1,1,1,1,2,1,2,1,No problems with Amazon
+379,20,0,0,1,1,1,0,1,5,4,2,4,1,2,Product quality and accuracy
+380,34,0,1,0,1,1,0,1,5,4,2,2,1,1,Product quality and accuracy
+381,34,1,0,0,1,1,1,1,1,2,3,1,2,1,Customer service responsiveness
+382,47,0,1,0,1,1,0,1,3,4,1,2,1,2,Shipping speed and reliability
+383,25,0,1,0,0,1,0,1,3,3,3,2,1,3,Shipping speed and reliability
+384,21,0,0,1,1,1,0,0,2,4,2,3,2,1,Customer service responsiveness
+385,24,0,0,1,0,1,0,1,2,2,1,3,1,1,Customer service responsiveness
+386,36,0,1,0,1,1,1,0,3,2,3,2,3,1,Customer service responsiveness
+387,46,1,0,0,0,1,0,1,3,2,1,1,2,2,Reducing packaging waste
+388,27,1,0,0,1,1,0,1,2,2,2,1,1,1,Customer service responsiveness
+389,25,1,0,0,0,1,0,1,3,2,1,2,2,1,Product quality and accuracy
+390,43,1,0,0,1,1,0,1,4,3,2,2,2,2,Customer service responsiveness
+391,32,0,0,1,1,1,0,0,5,3,2,1,3,1,Customer service responsiveness
+392,18,1,0,0,0,1,0,1,4,3,2,3,2,3,Reducing packaging waste
+393,45,0,1,0,1,1,0,1,5,2,1,3,1,3,Reducing packaging waste
+394,25,0,0,1,1,1,0,0,2,3,3,1,3,1,Reducing packaging waste
+395,45,1,0,0,0,1,0,1,1,2,2,2,1,3,Customer service responsiveness
+396,32,0,1,0,1,1,1,1,4,3,2,2,1,2,Customer service responsiveness
+397,42,0,1,0,1,1,1,1,2,2,2,1,1,2,Customer service responsiveness
+398,35,0,1,0,0,1,0,1,5,2,1,3,1,4,Customer service responsiveness
+399,35,0,1,0,0,1,1,1,3,2,1,4,2,3,Customer service responsiveness
+400,52,1,0,0,1,0,1,0,5,3,3,3,2,1,Shipping speed and reliability
+401,24,0,1,0,0,0,0,1,1,1,1,4,3,3,Product quality and accuracy
+402,28,0,1,0,1,1,0,1,4,3,1,2,1,2,Product quality and accuracy
+403,33,0,1,0,1,1,0,1,5,4,1,2,3,2,Product quality and accuracy
+404,23,0,1,0,1,1,0,1,1,1,2,4,2,5,Product quality and accuracy
+405,21,0,1,0,1,1,0,0,1,2,3,1,3,2,Product quality and accuracy
+406,34,0,1,0,0,0,0,1,3,2,1,1,1,3,Reducing packaging waste
+407,23,0,0,1,0,1,0,0,2,2,1,3,2,2,Customer service responsiveness
+408,34,0,0,1,1,0,0,0,3,1,2,2,2,5,Shipping speed and reliability
+409,34,0,1,0,0,0,0,1,4,3,1,2,2,2,Reducing packaging waste
+410,25,0,1,0,0,0,0,0,1,1,2,3,2,3,Shipping speed and reliability
+411,32,1,0,0,0,0,0,0,1,1,2,2,2,2,Customer service responsiveness
+412,24,0,1,0,0,0,0,1,3,3,3,2,3,2,Product quality and accuracy
+413,34,0,1,0,0,1,0,0,3,2,2,5,1,3,Reducing packaging waste
+414,44,1,0,0,1,0,0,0,4,3,2,3,2,3,Reducing packaging waste
+415,23,0,1,0,1,1,0,1,4,3,2,2,1,1,Customer service responsiveness
+416,23,0,1,0,0,1,0,0,3,1,2,3,1,2,Customer service responsiveness
+417,34,0,1,0,1,0,0,0,4,2,2,3,1,2,Reducing packaging waste
+418,23,0,1,0,1,1,0,0,4,4,3,3,3,4,Reducing packaging waste
+419,36,0,1,0,0,0,0,1,2,3,1,3,3,2,Product quality and accuracy
+420,24,0,1,0,1,1,1,1,3,4,2,3,1,3,Customer service responsiveness
+421,21,0,1,0,1,1,0,0,4,3,1,3,3,3,Reducing packaging waste
+422,21,0,1,0,0,1,0,0,3,3,2,2,3,2,Customer service responsiveness
+423,45,1,0,0,0,1,0,0,2,4,2,2,1,2,Product quality and accuracy
+424,21,0,1,0,1,0,0,0,4,2,2,2,2,2,Customer service responsiveness
+425,23,0,1,0,0,1,0,0,4,3,3,2,2,2,Reducing packaging waste
+426,21,0,1,0,1,0,1,1,4,2,3,3,2,1,Reducing packaging waste
+427,34,0,1,0,0,1,0,0,2,3,2,2,1,3,Reducing packaging waste
+428,21,0,1,0,1,0,0,0,3,2,2,2,2,3,Reducing packaging waste
+429,23,0,1,0,0,1,0,0,4,2,2,2,1,3,Customer service responsiveness
+430,21,0,1,0,0,1,1,0,4,2,2,3,2,4,Reducing packaging waste
+431,32,0,1,0,0,0,0,0,2,2,2,3,1,3,Customer service responsiveness
+432,35,0,0,1,0,0,1,0,4,3,1,4,2,2,Customer service responsiveness
+433,37,1,0,0,1,0,1,1,2,3,3,2,2,1,Reducing packaging waste
+434,23,0,1,0,0,1,0,0,4,2,1,1,2,2,Reducing packaging waste
+435,33,0,0,1,0,1,0,0,3,2,2,3,2,2,Customer service responsiveness
+436,35,0,1,0,0,1,0,1,3,2,2,2,2,2,Reducing packaging waste
+437,44,0,1,0,0,1,0,0,4,3,2,3,2,4,Reducing packaging waste
+438,34,1,0,0,0,1,0,0,4,2,2,2,2,2,Reducing packaging waste
+439,34,0,0,1,0,1,0,0,2,2,1,2,2,3,Customer service responsiveness
+440,34,0,1,0,0,0,0,0,3,2,1,1,1,1,Customer service responsiveness
+441,34,0,1,0,0,1,0,0,3,3,1,2,2,1,Reducing packaging waste
+442,23,0,1,0,1,0,0,0,5,3,1,3,2,2,Product quality and accuracy
+443,33,0,1,0,0,1,0,0,3,4,3,3,2,1,Customer service responsiveness
+444,23,0,1,0,0,1,0,0,3,1,2,3,1,3,Reducing packaging waste
+445,34,0,1,0,0,0,1,1,3,2,2,1,2,2,Reducing packaging waste
+446,23,0,1,0,1,0,0,1,3,2,2,3,2,4,Reducing packaging waste
+447,34,0,0,1,0,1,0,0,4,2,2,2,2,3,Customer service responsiveness
+448,23,0,1,0,0,1,0,0,3,4,3,3,2,3,Reducing packaging waste
+449,23,0,1,0,1,0,0,0,4,2,2,2,2,3,Reducing packaging waste
+450,23,0,1,0,1,0,0,1,4,3,2,3,2,1,Reducing packaging waste
+451,23,0,0,1,0,1,1,1,2,2,2,2,2,2,Reducing packaging waste
+452,45,0,1,0,1,0,0,0,3,2,2,3,1,3,Customer service responsiveness
+453,23,0,1,0,0,1,0,0,1,4,1,2,2,1,Reducing packaging waste
+454,34,0,0,1,1,0,0,0,4,2,2,3,2,3,Customer service responsiveness
+455,45,0,1,0,1,0,0,1,2,3,3,3,2,3,Customer service responsiveness
+456,34,0,1,0,1,0,0,0,4,3,2,3,2,2,Customer service responsiveness
+457,45,0,1,0,0,1,1,0,3,2,2,3,2,1,Reducing packaging waste
+458,67,0,1,0,1,0,0,0,3,2,2,1,3,3,Customer service responsiveness
+459,34,0,0,1,1,0,0,0,4,1,2,2,3,2,Customer service responsiveness
+460,21,0,1,0,1,0,0,0,3,3,2,3,2,3,Customer service responsiveness
+461,17,0,1,0,0,1,0,0,3,3,2,3,2,2,Customer service responsiveness
+462,34,0,1,0,0,1,0,0,3,3,2,2,2,3,Product quality and accuracy
+463,46,0,0,1,0,1,0,0,3,3,2,3,2,3,Customer service responsiveness
+464,54,0,1,0,0,1,0,0,3,3,2,3,2,3,Product quality and accuracy
+465,56,0,0,1,0,1,0,0,4,2,2,3,2,3,Customer service responsiveness
+466,50,0,0,1,1,1,1,1,3,3,2,3,2,4,Shipping speed and reliability
+467,56,0,0,1,1,0,0,0,3,2,2,4,2,3,Reducing packaging waste
+468,22,0,0,1,0,1,0,0,3,3,3,4,2,3,Customer service responsiveness
+469,25,0,0,1,0,1,0,0,3,2,2,3,2,3,Customer service responsiveness
+470,23,1,0,0,1,0,0,0,3,2,2,3,2,3,Customer service responsiveness
+471,23,0,0,1,0,1,0,0,4,2,2,3,2,3,Customer service responsiveness
+472,56,0,1,0,0,1,0,0,3,3,2,3,2,3,Customer service responsiveness
+473,56,0,1,0,1,0,0,1,5,3,2,3,2,3,Customer service responsiveness
+474,23,0,1,0,1,0,0,0,3,2,2,3,2,3,Reducing packaging waste
+475,56,0,1,0,1,1,0,0,4,3,2,4,2,3,Reducing packaging waste
+476,23,0,1,0,1,0,0,0,3,4,2,3,2,3,Customer service responsiveness
+477,45,0,1,0,0,0,0,1,3,3,2,3,2,3,Customer service responsiveness
+478,23,0,1,0,1,0,0,0,3,3,2,3,2,3,Customer service responsiveness
+479,23,0,1,0,1,0,0,0,2,2,2,3,2,3,Customer service responsiveness
+480,34,0,0,1,0,1,0,0,3,2,2,2,2,3,Customer service responsiveness
+481,34,0,1,0,0,1,0,0,3,3,1,2,2,2,Reducing packaging waste
+482,45,0,0,1,1,0,0,0,3,2,1,2,2,2,Product quality and accuracy
+483,33,0,0,1,1,0,0,0,4,2,1,2,3,2,Product quality and accuracy
+484,34,0,1,0,1,0,0,0,4,3,2,2,2,1,Reducing packaging waste
+485,45,0,0,1,1,0,0,0,4,2,2,4,2,3,Customer service responsiveness
+486,45,1,0,0,1,0,0,0,3,3,1,3,2,3,Product quality and accuracy
+487,34,0,1,0,0,1,0,0,4,3,1,2,2,3,Customer service responsiveness
+488,67,0,0,1,0,0,0,1,3,3,2,2,2,2,Reducing packaging waste
+489,34,0,1,0,1,0,0,0,4,3,2,3,2,4,Reducing packaging waste
+490,45,0,0,1,1,0,0,0,1,3,1,3,2,2,Customer service responsiveness
+491,23,0,1,0,0,1,0,0,2,3,2,3,2,3,Reducing packaging waste
+492,21,0,0,1,0,1,0,0,1,2,2,3,2,3,Customer service responsiveness
+493,23,0,1,0,1,0,0,0,3,3,2,3,2,4,Customer service responsiveness
+494,23,0,0,1,1,1,0,0,5,3,2,3,3,3,Reducing packaging waste
+495,42,0,1,0,0,1,0,0,4,3,2,3,2,3,Customer service responsiveness
+496,23,0,0,1,0,1,0,0,4,2,2,4,2,3,Shipping speed and reliability
+497,23,0,0,1,1,0,0,0,5,2,2,3,2,3,Customer service responsiveness
+498,25,0,0,1,1,0,0,0,3,2,2,3,2,3,Reducing packaging waste
+499,40,1,0,0,1,1,0,1,5,3,1,2,3,1,Product quality and accuracy
+500,23,0,1,0,1,0,0,0,3,3,3,3,2,3,Customer service responsiveness
+501,23,0,1,0,0,1,0,0,5,2,2,3,2,3,Reducing packaging waste
+502,27,1,0,0,0,1,0,0,1,1,2,3,2,2,Product quality and accuracy
+503,39,1,0,0,0,0,0,1,2,3,2,1,3,1,Reducing packaging waste
+504,32,0,1,0,0,1,0,1,2,3,1,5,3,2,Shipping speed and reliability
+505,36,0,1,0,0,0,0,1,1,1,1,2,3,2,Product quality and accuracy
+506,40,0,1,0,0,1,0,0,2,1,3,5,3,4,Customer service responsiveness
+507,23,1,0,0,0,1,0,0,2,1,2,3,2,1,Customer service responsiveness
+508,45,0,1,0,1,0,0,0,4,2,2,3,2,1,Reducing packaging waste
+509,45,0,0,1,0,1,0,0,3,4,3,1,3,1,Product quality and accuracy
+510,45,0,0,1,1,0,0,0,3,2,3,2,2,1,Product quality and accuracy
+511,45,0,0,1,0,1,1,0,3,4,3,1,2,1,Reducing packaging waste
+512,45,0,1,0,0,1,0,0,3,4,1,4,1,4,Shipping speed and reliability
+513,32,1,0,0,0,1,0,1,2,1,1,2,1,5,Customer service responsiveness
+514,34,0,0,1,0,0,0,1,2,2,2,3,1,2,Reducing packaging waste
+515,54,1,0,0,0,1,1,1,3,2,2,3,1,3,Reducing packaging waste
+516,25,1,0,0,1,1,0,1,4,2,1,3,1,2,Customer service responsiveness
+517,26,0,0,1,0,1,0,1,2,4,1,3,1,2,Product quality and accuracy
+518,36,0,1,0,1,1,0,1,3,3,1,3,1,2,Reducing packaging waste
+519,22,1,0,0,0,1,0,1,2,2,2,2,1,2,Customer service responsiveness
+520,34,0,1,0,0,1,0,0,3,3,2,2,2,2,Product quality and accuracy
+521,35,0,1,0,1,1,0,1,3,2,1,2,2,3,Customer service responsiveness
+522,34,0,0,1,1,1,1,1,3,3,2,2,2,4,Reducing packaging waste
+523,21,0,0,1,1,1,1,1,5,2,1,5,1,4,Product quality and accuracy
+524,24,0,1,0,1,1,0,1,3,1,1,5,1,5,Reducing packaging waste
+525,26,0,0,1,0,0,0,1,1,1,1,5,1,5,Product quality and accuracy
+526,36,1,0,0,1,1,0,1,2,1,1,4,1,4,Customer service responsiveness
+527,36,0,1,0,0,0,1,0,2,2,2,3,2,3,Reducing packaging waste
+528,28,0,1,0,1,1,1,1,4,4,2,3,2,4,Reducing packaging waste
+529,40,0,1,0,1,0,1,0,3,2,3,3,1,3,Shipping speed and reliability
+530,50,0,1,0,1,1,0,1,3,3,1,3,2,3,Reducing packaging waste
+531,27,1,0,0,1,1,0,1,2,2,2,2,1,3,Product quality and accuracy
+532,27,0,1,0,1,1,0,0,3,2,1,3,2,4,Shipping speed and reliability
+533,45,1,0,0,0,1,0,1,3,2,2,2,3,3,Product quality and accuracy
+534,46,0,1,0,0,1,0,1,3,2,2,2,3,3,Reducing packaging waste
+535,60,0,0,1,0,0,0,1,1,2,2,4,1,4,Customer service responsiveness
+536,32,0,1,0,1,1,0,1,3,3,3,2,1,4,Reducing packaging waste
+537,45,0,1,0,1,1,1,1,3,3,2,3,1,2,Customer service responsiveness
+538,25,0,1,0,1,1,0,1,5,3,3,2,1,2,Customer service responsiveness
+539,37,0,1,0,1,1,1,1,3,3,3,3,1,3,Shipping speed and reliability
+540,37,0,1,0,1,1,0,0,3,1,1,1,1,3,Customer service responsiveness
+541,32,1,0,0,1,1,0,1,3,3,2,2,1,3,Customer service responsiveness
+542,56,1,0,0,1,1,0,1,3,3,1,2,1,2,Reducing packaging waste
+543,34,0,1,0,1,1,0,1,3,3,2,3,1,2,Customer service responsiveness
+544,21,1,0,0,1,1,1,1,2,3,1,2,3,1,Product quality and accuracy
+545,46,1,0,0,1,1,1,0,3,3,3,2,3,2,Product quality and accuracy
+546,21,1,0,0,1,1,0,1,5,1,2,1,3,1,Reducing packaging waste
+547,31,0,1,0,1,1,1,0,3,3,2,5,2,2,Customer service responsiveness
+548,36,0,1,0,1,1,1,1,5,4,2,2,1,2,Customer service responsiveness
+549,35,0,1,0,1,0,0,1,3,2,2,3,3,1,Product quality and accuracy
+550,25,1,0,0,1,1,0,1,3,2,2,2,2,3,Customer service responsiveness
+551,45,0,1,0,0,1,0,0,3,1,2,3,1,1,Customer service responsiveness
+552,36,0,1,0,1,1,0,0,3,3,1,1,3,1,Reducing packaging waste
+553,36,0,1,0,1,1,1,0,4,2,1,1,2,2,Product quality and accuracy
+554,43,1,0,0,1,0,0,0,2,4,2,1,3,1,Product quality and accuracy
+555,34,0,1,0,1,1,1,0,5,3,1,1,3,1,Customer service responsiveness
+556,43,1,0,0,1,1,1,1,3,3,1,2,1,2,Reducing packaging waste
+557,25,0,1,0,0,1,0,0,3,3,1,2,1,2,Customer service responsiveness
+558,43,0,1,0,1,1,0,1,5,3,2,3,2,2,Customer service responsiveness
+559,56,0,1,0,1,1,1,0,5,3,2,3,2,2,Product quality and accuracy
+560,32,0,1,0,1,0,1,0,3,2,1,3,1,3,Customer service responsiveness
+561,21,1,0,0,0,1,0,0,4,3,2,4,2,2,Customer service responsiveness
+562,34,1,0,0,0,1,0,0,1,3,1,2,1,3,Customer service responsiveness
+563,34,0,1,0,0,1,1,0,4,4,1,2,1,2,Product quality and accuracy
+564,34,0,1,0,0,1,0,0,4,3,1,4,2,4,Shipping speed and reliability
+565,45,0,0,1,0,1,0,0,2,3,2,3,2,3,Reducing packaging waste
+566,45,0,1,0,1,0,0,0,4,3,3,3,2,4,Product quality and accuracy
+567,45,0,0,1,0,0,0,1,1,2,2,4,3,4,Shipping speed and reliability
+568,45,0,1,0,0,0,1,0,3,4,2,3,2,3,Product quality and accuracy
+569,45,0,1,0,1,0,0,0,3,2,3,3,2,3,Reducing packaging waste
+570,45,0,0,1,0,1,0,0,4,4,2,4,2,4,Product quality and accuracy
+571,25,0,1,0,1,0,0,0,2,2,2,3,2,3,Customer service responsiveness
+572,45,0,0,1,1,0,0,0,3,2,2,3,2,3,Product quality and accuracy
+573,60,1,0,0,1,0,0,0,4,2,2,3,2,3,Customer service responsiveness
+574,26,1,0,0,0,0,1,0,3,3,2,3,2,3,Customer service responsiveness
+575,25,0,0,1,1,0,0,0,3,3,2,3,2,3,Customer service responsiveness
+576,45,0,1,0,1,0,0,0,5,3,2,4,2,4,Customer service responsiveness
+577,12,0,1,0,1,0,0,0,5,3,3,3,2,4,Customer service responsiveness
+578,56,0,0,1,1,0,0,0,3,4,2,3,2,4,Customer service responsiveness
+579,45,0,1,0,1,0,0,0,5,3,3,3,3,2,Customer service responsiveness
+580,41,0,1,0,1,0,0,0,4,3,2,4,2,3,Product quality and accuracy
+581,23,0,1,0,1,0,0,0,4,3,2,3,2,3,Customer service responsiveness
+582,23,0,1,0,1,0,0,0,5,3,3,4,2,3,Customer service responsiveness
+583,45,0,1,0,1,0,0,0,5,3,2,3,2,3,Reducing packaging waste
+584,25,0,1,0,1,0,0,0,3,3,2,4,2,4,Reducing packaging waste
+585,25,1,0,0,1,0,0,0,5,3,2,3,2,2,Product quality and accuracy
+586,23,0,1,0,0,1,0,0,3,3,2,3,2,3,Customer service responsiveness
+587,23,0,1,0,0,1,0,0,3,3,2,3,2,3,Customer service responsiveness
+588,23,0,1,0,0,1,0,0,2,2,2,3,2,3,Customer service responsiveness
+589,23,0,1,0,1,0,0,0,4,3,2,3,2,3,Customer service responsiveness
+590,23,0,0,1,1,0,0,1,5,2,2,3,2,3,Customer service responsiveness
+591,23,0,1,0,1,0,0,0,5,2,2,3,2,5,Customer service responsiveness
+592,23,0,1,0,0,0,1,0,4,3,2,4,2,4,Customer service responsiveness
+593,23,0,1,0,1,0,0,0,2,3,2,4,2,4,Product quality and accuracy
+594,23,0,1,0,1,0,0,0,3,3,3,3,2,4,Customer service responsiveness
+595,25,0,1,0,1,0,0,0,4,4,2,3,2,3,Customer service responsiveness
+596,23,0,1,0,1,0,0,0,4,3,2,3,2,4,Customer service responsiveness
+597,23,0,1,0,0,1,0,0,4,3,2,3,2,3,Reducing packaging waste
+598,23,0,1,0,1,0,0,0,2,3,2,3,2,3,Product quality and accuracy
+599,23,0,1,0,1,1,0,0,3,2,3,2,3,2,Product quality and accuracy
+600,23,0,1,0,0,1,0,0,4,4,2,3,2,3,Product quality and accuracy
